@@ -10,7 +10,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/6oU4XES.jpeg", 
+      "value": "https://i.imgur.com/c7eIh2n.jpeg", 
       "name": "app_background_image"
     },
     {
@@ -33,7 +33,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#00F1FBFF", 
+      "value": "#10E7EEF1", 
       "id": 41, 
       "name": "button_color"
     }, 
