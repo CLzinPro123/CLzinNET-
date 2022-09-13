@@ -100,13 +100,13 @@
     },
     {
       "user_id": 27, 
-      "value": "#222222", 
+      "value": "#00000000", 
       "id": 3134, 
       "name": "app_dialog_config_background_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#333333", 
+      "value": "#00000000", 
       "id": 3135, 
       "name": "app_config_item_background_color"
     }, 
