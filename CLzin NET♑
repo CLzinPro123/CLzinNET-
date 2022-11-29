@@ -1,1 +1,191 @@
-Cl
+{
+  "Version": "2",
+  "ReleaseNotes": "Nova Atualização disponível🚀",
+  "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzin-NET/main/CLzin-NET",
+  "Sms": "",
+  "EmailFeedback": "",
+  "UrlContato": "",
+  "UrlTermos": "",
+  "CheckUser": "true",
+  "Udp": [
+    {
+      "Porta": "7300"
+    },
+    {
+      "Porta": "7500"
+    }
+  ],
+  "Servers": [
+    {
+      "Name": "BRASIL 01",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "svfree2dp.gdmhost.ga",
+      "CheckUser": "DP NET PRO",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "@@DPNETTTPRO",
+      "PASS": "@@DPNETTTPRO"
+    },
+{
+      "Name": "BRASIL 02",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "cx24gb8.hnts.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "1111",
+      "PASS": "1111"
+    },
+{
+      "Name": "BRASIL 03",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "24p1.hnts.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "PPPP",
+      "PASS": "PPPP"
+    },
+{
+      "Name": "BRASIL 04",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "brasil-02.mgttunnel.xyz",
+      "CheckUser": "Rapid vpn",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "free0002",
+      "PASS": "free0002"
+    },
+{
+      "Name": "BRASIL 05",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "brasil-01.mgttunnel.xyz",
+      "CheckUser": "Rapid vpn",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "free0001",
+      "PASS": "free0001"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT R.H 06",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "svl30.deanpola.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "ITALOAHLIMMEVGID",
+      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT R.H 07",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "svl32.deanpola.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "ITALOAHLIMMEVGID",
+      "PASS": "ITALOAHLIMMEVGIDO U T L I E R"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT S.L 08",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "servidor30.sockslite.com",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "bitW3NVEFKHT B L r F c G SSH",
+      "PASS": "bitW3NVEFKHT B L r F c G SSH"
+    },
+{
+      "Name": "BRASIL SERVIDOR FRONT S.L 09",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
+      "ServerIP": "servidor32.sockslite.com",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "bitW3NVEFKHT B L r F c G SSH",
+      "PASS": "bitW3NVEFKHT B L r F c G SSH"
+    },
+ ],
+ "Networks": [
+{
+   "Name": "VIVO EASY",
+   "FLAG": "vivo",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "104.18.7.80",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+{
+      "Name": "VIVO FRONT R.H",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [random=di0j0fopmscny.cloudfront.net;d16gw069sdxfey.cloudfront.net;d3kcli65ivlglc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "recarga.vivo.com.br",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+{
+      "Name": "VIVO FRONT S.L",
+    "FLAG": "vivo",
+    "Payload": "GET / HTTP/1.1[crlf]Host: [random=d1ankiiqp75aax.cloudfront.net;d2iw2mb0i63m4j.cloudfront.net;d2f5h2zstwk2ri.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+    "SNI": "",
+    "TlsIP": "",
+    "ProxyIP": "recarga.vivo.com.br",
+    "ProxyPort": "80",
+    "Info": "Proxy"
+    },
+  {
+   "Name": "TIM",
+   "FLAG": "tim",
+   "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "smainfo.surveymonkey.com",
+   "TlsIP": "104.17.71.206",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },
+{
+      "Name": "TIM NOVA",
+      "FLAG": "tim",
+      "Payload": "GET wss://bobcontents.bennuapp.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "bobcontents.bennuapp.com.br",
+      "TlsIP": "104.17.81.33",
+      "ProxyIP": "",
+      "ProxyPort": "80",
+      "Info": "Proxy"
+    },
+  {
+   "Name": "TIM SEM SALDO",
+   "FLAG": "tim",
+   "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+   "SNI": "duvidas.ampli.com.br",
+   "TlsIP": "duvidas.ampli.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  },
+{
+   "Name": "CLARO FRONT TESTE",
+   "FLAG": "claro",
+   "Payload": "GET wss://commandcenter.claro.com.br HTTP/1.1[crlf]Host: [random=di0j0fopmscny.cloudfront.net;d16gw069sdxfey.cloudfront.net;d3kcli65ivlglc.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket[crlf][crlf]",
+   "SNI": "commandcenter.claro.com.br",
+   "TlsIP": "commandcenter.claro.com.br",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
+  }
+ ]
+}
