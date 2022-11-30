@@ -1,5 +1,5 @@
 {
-  "Version": "6",
+  "Version": "7",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -20,6 +20,17 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
+      "ServerIP": "brasil.exteerrfree.xyz",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "Arnold",
+      "PASS": "Arnold"
+    },
+{
+      "Name": "BRASIL 02",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
       "ServerIP": "games.caduhh.uk",
       "CheckUser": "",
       "ServerPort": "22",
@@ -28,7 +39,7 @@
       "PASS": "1234"
     },
     {
-      "Name": "BRASIL 02",
+      "Name": "BRASIL 03",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "01.sshtproject.tk",
@@ -39,7 +50,7 @@
       "PASS": "x9team"
     },
 {
-      "Name": "BRASIL 03",
+      "Name": "BRASIL 04",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "sv5.telksfree.tk",
@@ -50,7 +61,7 @@
       "PASS": "server5"
     },
 {
-      "Name": "BRASIL 04",
+      "Name": "BRASIL 05",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
       "ServerIP": "cx24gb8.hnts.xyz",
@@ -59,17 +70,6 @@
       "SSLPort": "443",
       "USER": "1111",
       "PASS": "1111"
-    },
-{
-      "Name": "BRASIL 05",
-      "TYPE": "PREMIUM",
-      "FLAG": "br.png",
-      "ServerIP": "24p1.hnts.xyz",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "PPPP",
-      "PASS": "PPPP"
     },
 {
       "Name": "BRASIL 06",
