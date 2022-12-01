@@ -1,5 +1,5 @@
 {
-  "Version": "9",
+  "Version": "10",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -42,23 +42,23 @@
       "Name": "BRASIL 03",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "01.sshtproject.tk",
+      "ServerIP": "03.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "x9team",
-      "PASS": "x9team"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
 {
       "Name": "BRASIL 04",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "sv5.telksfree.tk",
+      "ServerIP": "sv4.telksfree.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "server5",
-      "PASS": "server5"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
 {
       "Name": "BRASIL 05",
