@@ -1,5 +1,5 @@
 {
-  "Version": "8",
+  "Version": "9",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -20,23 +20,23 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "brasil.exteerrfree.xyz",
+      "ServerIP": "01.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Arnold",
-      "PASS": "Arnold"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
 {
       "Name": "BRASIL 02",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "games.caduhh.uk",
+      "ServerIP": "05.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "Qnax",
-      "PASS": "1234"
+      "USER": "ssht",
+      "PASS": "ssht"
     },
     {
       "Name": "BRASIL 03",
@@ -152,7 +152,7 @@
       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
       "SNI": "",
       "TlsIP": "",
-      "ProxyIP": "99.84.252.128",
+      "ProxyIP": "pos.tim.com.br",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
