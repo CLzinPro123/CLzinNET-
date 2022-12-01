@@ -1,5 +1,5 @@
 {
-  "Version": "10",
+  "Version": "11",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -53,7 +53,7 @@
       "Name": "BRASIL 04",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "sv4.telksfree.tk",
+      "ServerIP": "sv6.telksfree.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
