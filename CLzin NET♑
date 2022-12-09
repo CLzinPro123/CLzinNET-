@@ -1,5 +1,5 @@
 {
-  "Version": "11",
+  "Version": "12",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -117,12 +117,12 @@
    "Info": "Proxy"
   },
 {
-   "Name": "VIVO FRONT 02",
+   "Name": "VIVO TESTE 02",
    "FLAG": "vivo",
-   "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
+   "Payload": "CONNECT-SI wss://celular.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]|[crlf][crlf]",
    "SNI": "",
    "TlsIP": "",
-   "ProxyIP": "recarga.vivo.com.br",
+   "ProxyIP": "celular.vivo.com.br",
    "ProxyPort": "80",
    "Info": "Proxy"
   },
@@ -137,24 +137,24 @@
     "Info": "Proxy"
     },
   {
-   "Name": "TIM 01",
+   "Name": "TIM NOVA 01",
    "FLAG": "tim",
-   "Payload": "GET wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-   "SNI": "smainfo.surveymonkey.com",
-   "TlsIP": "104.17.71.206",
+   "Payload": "POST- wss://songbird.cardinalcommerce.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]",
+   "SNI": "songbird.cardinalcommerce.com",
+   "TlsIP": "songbird.cardinalcommerce.com",
    "ProxyIP": "",
    "ProxyPort": "443",
    "Info": "Tlsws"
   },
 {
-      "Name": "TIM FRONT 02",
+      "Name": "TIM NOVA 02",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-      "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "pos.tim.com.br",
-      "ProxyPort": "80",
-      "Info": "Proxy"
+      "Payload": "BASELINE-CONTROL wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host]: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "smainfo.surveymonkey.com",
+      "TlsIP": "smainfo.surveymonkey.com",
+      "ProxyIP": "",
+      "ProxyPort": "443",
+      "Info": "Tlsws"
     },
   {
    "Name": "TIM SEM SALDO 03",
