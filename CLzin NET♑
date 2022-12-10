@@ -1,5 +1,5 @@
 {
-  "Version": "13",
+  "Version": "14",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -20,18 +20,18 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "01.sshtproject.tk",
+      "ServerIP": "google.cloudeclypse.cf",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ssht",
-      "PASS": "ssht"
+      "USER": "mucilon",
+      "PASS": "mucilon"
     },
 {
       "Name": "BRASIL 02",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "05.sshtproject.tk",
+      "ServerIP": "01.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
