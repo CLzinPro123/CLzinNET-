@@ -75,34 +75,34 @@
       "Name": "BRASIL 06",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "brasil-01.mgttunnel.xyz",
+      "ServerIP": "servidor11.sockslite.com",
       "CheckUser": "Rapid vpn",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "free0001",
-      "PASS": "free0001"
+      "USER": "bitUAPUEMKHT",
+      "PASS": "bitUAPUEMKHT B L r F c G SSH"
     },
 {
-      "Name": "BRASIL FRONT 07",
+      "Name": "BRASIL 07",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d3m84kwel32f4k.cloudfront.net",
+      "ServerIP": "servidor16.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ljtfyalp",
-      "PASS": "ljtfyalp"
+      "USER": "bitUAPUEMKHT",
+      "PASS": "bitUAPUEMKHT B L r F c G SSH"
     },
 {
-      "Name": "BRASIL FRONT 08",
+      "Name": "BRASIL 08",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "d32f79no3s5j1b.cloudfront.net",
+      "ServerIP": "servidor52.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "vivo",
-      "PASS": "1234"
+      "USER": "bitUAPUEMKHT",
+      "PASS": "bitUAPUEMKHT B L r F c G SSH"
     }
  ],
  "Networks": [
