@@ -1,5 +1,5 @@
 {
-  "Version": "14",
+  "Version": "15",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -167,24 +167,14 @@
    "Info": "Tlsws"
   },
 {
-   "Name": "CLARO FRONT 01",
+   "Name": "CLARO NOVA 01",
    "FLAG": "claro",
-   "Payload": "GET wss://d3m84kwel32f4k.cloudfront.net/ HTTP/1.1[crlf]Host: descomplica.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "descomplica.com.br",
-   "ProxyPort": "80",
-   "Info": "Proxy"
-  },
-{
-   "Name": "CLARO FRONT 02",
-   "FLAG": "claro",
-   "Payload": "GET wss://d32f79no3s5j1b.cloudfront.net/ HTTP/1.1[crlf]Host: descomplica.com.br[crlf]Upgrade: Websocket[crlf]Connection: Upgrade[crlf][crlf]",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "descomplica.com.br",
-   "ProxyPort": "80",
-   "Info": "Proxy"
+   "Payload": "MUCILONX- sni://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: google.cloudeclypse.cf[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
+   "SNI": "mobilidade.cloud.caixa.gov.br",
+   "TlsIP": "mobilidade.cloud.caixa.gov.br",
+   "ProxyIP": "",
+   "ProxyPort": "443",
+   "Info": "Tlsws"
   }
  ]
 }
