@@ -1,5 +1,5 @@
 {
-  "Version": "19",
+  "Version": "20",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑ /n TIM FUNCIONANDO NA OPÇÃO TIM NOVA 02",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -20,6 +20,17 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
+      "ServerIP": "08.sshtproject.tk",
+      "CheckUser": "",
+      "ServerPort": "22",
+      "SSLPort": "443",
+      "USER": "ssht",
+      "PASS": "ssht"
+    },
+{
+      "Name": "BRASIL 02",
+      "TYPE": "PREMIUM",
+      "FLAG": "br.png",
       "ServerIP": "google.cloudeclypse.cf",
       "CheckUser": "",
       "ServerPort": "22",
@@ -27,22 +38,11 @@
       "USER": "mucilon",
       "PASS": "mucilon"
     },
-{
-      "Name": "BRASIL 02",
-      "TYPE": "PREMIUM",
-      "FLAG": "br.png",
-      "ServerIP": "01.sshtproject.tk",
-      "CheckUser": "",
-      "ServerPort": "22",
-      "SSLPort": "443",
-      "USER": "ssht",
-      "PASS": "ssht"
-    },
     {
       "Name": "BRASIL 03",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "03.sshtproject.tk",
+      "ServerIP": "05.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
@@ -53,7 +53,7 @@
       "Name": "BRASIL 04",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "sv6.telksfree.tk",
+      "ServerIP": "04.sshtproject.tk",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
