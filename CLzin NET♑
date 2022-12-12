@@ -1,5 +1,5 @@
 {
-  "Version": "17",
+  "Version": "18",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -149,9 +149,9 @@
 {
       "Name": "TIM NOVA 02",
       "FLAG": "tim",
-      "Payload": "BASELINE-CONTROL wss://smainfo.surveymonkey.com HTTP/1.1[crlf]Host: [app_host]: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-      "SNI": "smainfo.surveymonkey.com",
-      "TlsIP": "smainfo.surveymonkey.com",
+      "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
+      "SNI": "workplaceservices.surveymonkey.com",
+      "TlsIP": "workplaceservices.surveymonkey.com",
       "ProxyIP": "",
       "ProxyPort": "443",
       "Info": "Tlsws"
@@ -159,12 +159,12 @@
   {
    "Name": "TIM SEM SALDO 03",
    "FLAG": "tim",
-   "Payload": "GET wss://duvidas.ampli.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: WebSocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-   "SNI": "duvidas.ampli.com.br",
-   "TlsIP": "duvidas.ampli.com.br",
-   "ProxyIP": "",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
+   "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
+   "SNI": "",
+   "TlsIP": "",
+   "ProxyIP": "[app_host]",
+   "ProxyPort": "80",
+   "Info": "Proxy"
   },
 {
    "Name": "CLARO NOVA 01",
