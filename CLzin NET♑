@@ -1,5 +1,5 @@
 {
-  "Version": "20",
+  "Version": "21",
   "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑ /n TIM FUNCIONANDO NA OPÇÃO TIM NOVA 02",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
@@ -159,10 +159,10 @@
   {
    "Name": "TIM SEM SALDO 03",
    "FLAG": "tim",
-   "Payload": "PATCH HTTP/1.0 [crlf]Host: map.qq.com[crlf]",
+   "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
    "SNI": "",
    "TlsIP": "",
-   "ProxyIP": "[app_host]",
+   "ProxyIP": "45.179.88.113",
    "ProxyPort": "80",
    "Info": "Proxy"
   },
