@@ -169,12 +169,12 @@
 {
    "Name": "CLARO NOVA 01",
    "FLAG": "claro",
-   "Payload": "MUCILONX- sni://mobilidade.cloud.caixa.gov.br/ HTTP/1.1[crlf]Host: google.cloudeclypse.cf[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]",
-   "SNI": "mobilidade.cloud.caixa.gov.br",
-   "TlsIP": "mobilidade.cloud.caixa.gov.br",
-   "ProxyIP": "",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
+   "Payload": "GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+   "SNI": "assets.clarobrasil.mobi",
+   "TlsIP": "[app_host]",
+   "ProxyIP": "assets.clarobrasil.mobi",
+   "ProxyPort": "80",
+   "Info": "Proxy"
   }
  ]
 }
