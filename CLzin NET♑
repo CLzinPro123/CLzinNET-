@@ -1,6 +1,6 @@
 {
-  "Version": "22",
-  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑ /n TIM FUNCIONANDO NA OPÇÃO TIM NOVA 02",
+  "Version": "23",
+  "ReleaseNotes": "NOVA ATUALIZAÇÃO DISPONÍVEL ♑ /n VIVO, CLARO E TIM FUNCIONANDO NAS OPÇÕES FRONT",
   "UrlUpdate": "https://raw.githubusercontent.com/CLzinPro123/CLzinNET-/main/CLzin%20NET%E2%99%91",
   "Sms": "",
   "EmailFeedback": "",
@@ -20,12 +20,12 @@
       "Name": "BRASIL 01",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "sug7.techoragonprime.com",
+      "ServerIP": "servidor26.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "ZanGif200gizfiz",
-      "PASS": "Rulez$$panter"
+      "USER": "ekvfd0",
+      "PASS": "pass"
     },
 {
       "Name": "BRASIL 02",
@@ -64,12 +64,12 @@
       "Name": "BRASIL 05",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "cx24gb8.hnts.xyz",
+      "ServerIP": "sug7.techoragonprime.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "1111",
-      "PASS": "1111"
+      "USER": "ZanGif200gizfiz",
+      "PASS": "Rulez$$panter"
     },
 {
       "Name": "BRASIL 06",
@@ -79,19 +79,19 @@
       "CheckUser": "Rapid vpn",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "bitUAPUEMKHT",
-      "PASS": "bitUAPUEMKHT B L r F c G SSH"
+      "USER": "ekvfd0",
+      "PASS": "pass"
     },
 {
       "Name": "BRASIL 07",
       "TYPE": "PREMIUM",
       "FLAG": "br.png",
-      "ServerIP": "servidor16.sockslite.com",
+      "ServerIP": "servidor30.sockslite.com",
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "bitUAPUEMKHT",
-      "PASS": "bitUAPUEMKHT B L r F c G SSH"
+      "USER": "ekvfd0",
+      "PASS": "pass"
     },
 {
       "Name": "BRASIL 08",
@@ -101,8 +101,8 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "USER": "bitUAPUEMKHT",
-      "PASS": "bitUAPUEMKHT B L r F c G SSH"
+      "USER": "ekvfd0",
+      "PASS": "pass"
     }
  ],
  "Networks": [
@@ -117,62 +117,32 @@
    "Info": "Proxy"
   },
 {
-   "Name": "VIVO TESTE 02",
+   "Name": "VIVO FRONT 02",
    "FLAG": "vivo",
-   "Payload": "CONNECT-SI wss://celular.vivo.com.br/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf][crlf]|[crlf][crlf]",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "celular.vivo.com.br",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ddq9wh7rfcsl.cloudfront.net;d3mtv0sjqn78d8.cloudfront.net][crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+   "SNI": "[app_host]",
+   "TlsIP": "[ssh_port]",
+   "ProxyIP": "52.85.213.8",
+   "ProxyPort": "80",
+   "Info": "Proxy"
+  },
+  {
+   "Name": "TIM FRONT 01",
+   "FLAG": "tim",
+   "Payload": "GET / HTTP/1.1[crlf]Host: [rotate=ddq9wh7rfcsl.cloudfront.net;d3mtv0sjqn78d8.cloudfront.net][crlf]connection:Upgrade:[crlf]User-Agent:[ua][crlf]Upgrade: websocket[crlf][crlf]",
+   "SNI": "[app_host]",
+   "TlsIP": "[ssh_port]",
+   "ProxyIP": "104.19.239.25",
    "ProxyPort": "80",
    "Info": "Proxy"
   },
 {
-      "Name": "VIVO NOVO 03",
-    "FLAG": "vivo",
-    "Payload": "PUTA- wss://songbird.cardinalcommerce.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf]",
-    "SNI": "songbird.cardinalcommerce.com",
-    "TlsIP": "198.217.251.250",
-    "ProxyIP": "",
-    "ProxyPort": "443",
-    "Info": "Tlsws"
-    },
-  {
-   "Name": "TIM NOVA 01",
-   "FLAG": "tim",
-   "Payload": "POST- wss://songbird.cardinalcommerce.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Referer: google.com[crlf][crlf]",
-   "SNI": "songbird.cardinalcommerce.com",
-   "TlsIP": "songbird.cardinalcommerce.com",
-   "ProxyIP": "",
-   "ProxyPort": "443",
-   "Info": "Tlsws"
-  },
-{
-      "Name": "TIM NOVA 02",
-      "FLAG": "tim",
-      "Payload": "BASELINE-CONTROL wss://workplaceservices.surveymonkey.com HTTP/1.1[crlf]Host: [app_host][crlf]Origin: https://www.google.com, http://www.google.com[crlf]User-Agent: Googlebot/2.1 (+http://www.google.com/bot.html)[crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive, Upgrade[crlf][crlf]",
-      "SNI": "workplaceservices.surveymonkey.com",
-      "TlsIP": "workplaceservices.surveymonkey.com",
-      "ProxyIP": "",
-      "ProxyPort": "443",
-      "Info": "Tlsws"
-    },
-  {
-   "Name": "TIM SEM SALDO 03",
-   "FLAG": "tim",
-   "Payload": "HTTP/1.1[crlf] [crlf][crlf]•",
-   "SNI": "",
-   "TlsIP": "",
-   "ProxyIP": "45.179.88.113",
-   "ProxyPort": "80",
-   "Info": "Proxy"
-  },
-{
-   "Name": "CLARO NOVA 01",
+   "Name": "CLARO FRONT 01",
    "FLAG": "claro",
-   "Payload": "GET wss://[rotate=dgu4xnjcwx8wh.cloudfront.net;d2i34928px111u.cloudfront.net]/ HTTP/1.1[crlf]Host: assets.clarobrasil.mobi[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
-   "SNI": "assets.clarobrasil.mobi",
-   "TlsIP": "[app_host]",
-   "ProxyIP": "assets.clarobrasil.mobi",
+   "Payload": "GET wss://[rotate=ddq9wh7rfcsl.cloudfront.net;d3mtv0sjqn78d8.cloudfront.net]/ HTTP/1.1[crlf]Host: origin.api.amxrest.net[crlf]Connection: Upgrade[crlf]Upgrade: Websocket [crlf][crlf]",
+   "SNI": "origin.api.amxrest.net",
+   "TlsIP": "[ssh_port]",
+   "ProxyIP": "origin.api.amxrest.net",
    "ProxyPort": "80",
    "Info": "Proxy"
   }
